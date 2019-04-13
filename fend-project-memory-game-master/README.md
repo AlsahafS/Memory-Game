@@ -11,7 +11,7 @@ this game built with HTML,CSS,JS
 -if you want to restart game click on restart
 
 
-##References
+## References
 - https://stackoverflow.com/
 - https://www.w3schools.com
 - Udacity Course
