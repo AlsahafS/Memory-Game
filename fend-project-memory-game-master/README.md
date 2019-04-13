@@ -6,8 +6,8 @@ this game built with HTML,CSS,JS
 
 
 ## Instructions
--open game
--click card
+-open game<br />
+-click card<br />
 -if you want to restart game click on restart
 
 
