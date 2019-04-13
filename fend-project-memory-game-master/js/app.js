@@ -109,7 +109,7 @@ startGame();
  */
 
 function displayCards(){
-    // this condition for brevent match when duble click on cards 
+    //this condition for prevent matching when double click in same card
   if(!this.classList.contains("open")){
    
    
@@ -231,7 +231,7 @@ function congrats() {
 }
 
 function openModal(){
-    
+    // to shw result in modal
     modalTime.innerHTML=hour + ":" + minute + ":" + second;;
     modalMoves.innerHTML=moves;
    var starRating = document.querySelector(".stars").innerHTML;
